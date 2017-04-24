@@ -7,9 +7,11 @@ It using composer for package management.
 
 
 == Installation ==
+
 Download and copy folder to your WordPress `plugins` directory, and active it.
 
 == Using ==
+
 In your functions, just call `WP_NOnce::<static method name here>` to use, all method have docs for your reference 
 
 == Changelog ==
