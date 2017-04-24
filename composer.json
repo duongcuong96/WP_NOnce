@@ -1,0 +1,14 @@
+{
+    "name": "cuongdc/wponce",
+    "description": "An implement of wp_once functions in OOP way",
+    "type": "libs",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "cuongdc",
+            "email": "duongcuong96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
